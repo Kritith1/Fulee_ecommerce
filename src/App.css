@@ -1,4 +1,13 @@
 /* Navabar */
+
+.container{
+  height: 5vh;
+}
 .navbar-nav a{
   font-size: 18px;
+}
+
+.row{
+
+  padding-top: 0.75rem;
 }
